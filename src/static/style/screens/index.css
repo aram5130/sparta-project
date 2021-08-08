@@ -48,23 +48,26 @@
 /*검색창 (클래스 명 변경시 모양이 깨집니다)*/
 
 .search-form {
-  display: block;
-  margin: 12vh auto;
-  overflow: hidden;
-  width: 39%;
+    display: block;
+    margin: 12vh auto;
+    overflow: hidden;
+    width: 39%;
+}
+.search-form .btn i {
+    color: #c40000;
 }
 .search-form_label, input {
-  vertical-align: baseline;
-  color: #737373;
+    vertical-align: baseline;
+    color: #737373;
 }
 .search-form_label {
-  margin: 0.125em 0.125em 0 0;
+    margin: 0.125em 0.125em 0 0;
     float: right;
 }
 
 .search-form_input[type="search"] {
     border: 2px solid #737373;
-    border-width: 0 0 3px;
+    border-width: 0 0 2px;
     background-color: transparent;
     font: 22px "Open Sans", sans-serif;
     padding: 0.125em 0.225em;
