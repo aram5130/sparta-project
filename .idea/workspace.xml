@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10f9e4e-d6bc-4999-8afd-0e10cc8cb8bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/teamProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teamProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/style/components/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/style/components/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/style/components/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/style/components/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/style/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/style/screens/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/style/screens/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +156,8 @@
       <workItem from="1628136524615" duration="3600000" />
       <workItem from="1628172164331" duration="87000" />
       <workItem from="1628262241343" duration="2161000" />
-      <workItem from="1628427951053" duration="3035000" />
+      <workItem from="1628427951053" duration="3595000" />
+      <workItem from="1628508763121" duration="5194000" />
     </task>
     <servers />
   </component>
@@ -172,7 +166,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/teamProject$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1626392085103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/sparta_project$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1628429092375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sparta_project$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1628509404478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/sparta_project$app.coverage" NAME="app Coverage Results" MODIFIED="1628262536917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
