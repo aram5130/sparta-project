@@ -37,6 +37,13 @@
         <script defer src="{{ url_for('static', filename='js/ranking.js') }}"></script>
         <script defer src="{{ url_for('static', filename='js/shrinkNavBar.js') }}"></script>
 
+        <!--카카오 로그인 API-->
+        <script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+        <script>
+        Kakao.init('7cbf6f88aa97f780ff58f3520b3c0453');
+        console.log(Kakao.isInitialized());
+    </script>
+
         <link rel="stylesheet" href="{{ url_for('static', filename='style/main.css') }}">
     </head>
 

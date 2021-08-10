@@ -44,6 +44,7 @@ nav {
     font-size: 15pt;
     font-weight: bold;
     color: white;
+    word-break: keep-all;
 }
 .menu ul li:last-child{
     margin-right: 0;

@@ -1,6 +1,7 @@
 footer{
     border-top: grey 1px solid;
     background-color: black;
+    word-break: keep-all;
 }
 
 .under_logo{

@@ -2,6 +2,7 @@
 
 /*캐로셀을 감싸는 제일 큰 컨테이너*/
 .carousel {
+    top: 10px;
     min-width: 1000px;
     padding-top: 17vh;
 }
@@ -53,9 +54,13 @@
   overflow: hidden;
   width: 39%;
 }
+
+.search-form i{
+    color: red;
+}
 .search-form_label, input {
   vertical-align: baseline;
-  color: #737373;
+  color: #ffffff;
 }
 .search-form_label {
   margin: 0.125em 0.125em 0 0;
@@ -87,6 +92,7 @@
 .search-form_input:focus::-webkit-input-placeholder {
     color: whitesmoke;
 }
+
 
 
 /*검색 결과창*/
